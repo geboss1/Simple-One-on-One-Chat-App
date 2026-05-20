@@ -132,11 +132,5 @@ This project helped me better understand:
 
 It was a great learning experience that brought together HTML, JS, Python, and real-time thinking.
 
----
 
-## Final Words
-
-I'm proud of how this project turned out. Even though it looks simple, it brings together several powerful technologies. I now have a much stronger understanding of real-time apps and client-server architecture.
-
-Thanks for checking out my project — and thank you, CS50!
 
