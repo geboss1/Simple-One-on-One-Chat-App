@@ -27,7 +27,7 @@ Project Structure
 app.py — Flask server and Socket.IO events
 templates/index.html — Main frontend page
 static/main.js — Client-side Socket.IO logic
-What I LearnedȘ
+What I Learned:
 
 Through this project, I learned:
 
