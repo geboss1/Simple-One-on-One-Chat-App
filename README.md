@@ -122,15 +122,3 @@ Here’s what I would add with more time:
 
 ---
 
-## What I Learned
-
-This project helped me better understand:
-- How to create and run a Flask app
-- How WebSockets work behind the scenes
-- How frontend JavaScript interacts with a backend in real time
-- How to design simple, clean interfaces that serve the core goal
-
-It was a great learning experience that brought together HTML, JS, Python, and real-time thinking.
-
-
-
