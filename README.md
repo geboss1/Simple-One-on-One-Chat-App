@@ -1,7 +1,7 @@
 
 # Simple One-on-One Chat App
 
-#### Video Demo: https://www.youtube.com/watch?v=p_fsbgJK1Xw
+
 #### Description:
 This is my final project for CS50x — a simple real-time chat application built using Flask, Socket.IO, HTML, CSS, and JavaScript. The app enables two or more users to join the same room and communicate instantly via WebSockets, all running locally without a login system or persistent database.
 
